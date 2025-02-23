@@ -1,6 +1,8 @@
 # PowerBI Sales dashboard Project
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
 
+G-Drive floder link- https://drive.google.com/drive/folders/1RmDm1kzOZ2vCwPdjB9ovkotnImmVExxU?usp=sharing
+
 DESCRIPTION
 The objective can be broken down into the following detailed components:
 1. Dashboard Creation: Identify the KPIs, and design an intuitive and visually
